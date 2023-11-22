@@ -11,7 +11,7 @@ education:
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2002
 email: ""
 first_name: Kwang Young
 highlight_name: false
