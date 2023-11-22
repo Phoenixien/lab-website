@@ -40,7 +40,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-superuser: false
+superuser: true
 title: Vincent Bouché (Daehyun)
 user_groups:
 - Researchers
