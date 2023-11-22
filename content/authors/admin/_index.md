@@ -13,13 +13,13 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Nelson
+first_name: Kwang Young
 highlight_name: false
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Bighetti
+last_name: Kim
 organizations:
 - name: Stanford University
   url: ""
@@ -38,9 +38,9 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Kwang Young Kim
 user_groups:
-- Researchers
+- Professors
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
