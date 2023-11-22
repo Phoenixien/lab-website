@@ -2,7 +2,7 @@
 bio: My research interests include marine predators.
 education:
   courses:
-  - course: PhD in Shark Conservation
+  - course: PhD in Ecosystem Conservation
     institution: Miami University
     year: 2030
   - course: Mst Oceanographic Sciences
@@ -18,28 +18,24 @@ interests:
 - Sharks Behaviour
 - Marine Ecosystem Conservation
 - Marine Species tracking
-- DNA sampling
-- Metabarcoding
-- Histology
-- R language statistics
 last_name: Bouche
 organizations:
 - name: Chonnam National University
   url: ""
-role: Research Master student
+role: Researcher Master student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: mailto:test@example.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
 superuser: true
 title: Vincent Bouche 
 user_groups:
