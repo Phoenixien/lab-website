@@ -22,7 +22,7 @@ last_name: Bouche
 organizations:
 - name: Chonnam National University
   url: ""
-role: Researcher Master student
+role: Researcher student
 social:
 - icon: envelope
   icon_pack: fas
