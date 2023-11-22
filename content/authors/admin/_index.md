@@ -21,9 +21,9 @@ interests:
 - Information Retrieval
 last_name: Kim
 organizations:
-- name: Stanford University
+- name: Chonnam National University
   url: ""
-role: Professor of Artificial Intelligence
+role: Professor of Marine Ecology
 social:
 - icon: envelope
   icon_pack: fas
