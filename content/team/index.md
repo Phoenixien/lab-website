@@ -7,6 +7,7 @@ sections:
     sort_by: Params.last_name
     title: Meet the Team
     user_groups:
+    - Professor
     - Principal Investigators
     - Researchers
     - Grad Students

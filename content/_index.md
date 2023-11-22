@@ -8,10 +8,9 @@ sections:
     text: |
       <br>
 
-      The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      The **Marine Ecosystem Harmful Organisms Research Group** has been a center of excellence for the marine ecosystem disturbing microorganism  research, teaching, and practice since its founding in 2016.
     title: |
-      Wowchemy
-      Research Group
+      MarinEHORC
 - block: collection
   content:
     count: 5
@@ -57,7 +56,7 @@ sections:
   content:
     subtitle: null
     text: |
-      {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      {{% cta cta_link="./team/" cta_text="Meet the team →" %}}
     title: null
   design:
     columns: "1"
