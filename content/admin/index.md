@@ -2,6 +2,6 @@
 outputs:
 - decap_cms_config
 - HTML
-private: true
+private: false
 type: decap_cms
 ---
