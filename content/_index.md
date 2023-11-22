@@ -8,7 +8,7 @@ sections:
     text: |
       <br>
 
-      The **Marine Ecosystem Harmful Organisms Research Group** has been a center of excellence for the marine ecosystem disturbing microorganism  research, teaching, and practice since its founding in 2016.
+      The **Marine Ecosystem Harmful Organisms Research Group** has been a center of excellence for the marine ecosystem disturbing microorganism  research, teaching, and practice since its founding in 2015.
     title: |
       MarinEHORC
 - block: collection
