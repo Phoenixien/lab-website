@@ -4,9 +4,9 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
+      city: Gwnagju
+      country: Republic of Korea
+      country_code: KR
       postcode: "94305"
       region: CA
       street: 450 Serra Mall

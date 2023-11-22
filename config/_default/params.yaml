@@ -6,8 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: mr robot
+  theme_night: mr robot
+  day_night: true
   font: native
   font_size: L
 
@@ -39,7 +40,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
