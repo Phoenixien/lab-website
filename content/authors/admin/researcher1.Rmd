@@ -22,7 +22,7 @@ interests:
 - Metabarcoding
 - Histology
 - R language statistics
-last_name: Bouché
+last_name: Bouche
 organizations:
 - name: Chonnam National University
   url: ""
@@ -41,7 +41,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Vincent Bouché (Daehyun)
+title: Vincent Bouche 
 user_groups:
 - Researchers
 ---
