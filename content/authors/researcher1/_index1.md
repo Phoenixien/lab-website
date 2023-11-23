@@ -1,6 +1,6 @@
 ---
 authors:
-- PHOENIX
+- PHOEN
 bio: My research interests include marine predators.
 education:
   courses:
@@ -38,10 +38,10 @@ social:
 - icon: github
   icon_pack: fab
   link: 
-superuser: true
+superuser: false
 title: Vincent Bouche 
 user_groups:
 - Grad Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab.akaid,dadnauz
