@@ -1,4 +1,6 @@
 ---
+authors:
+- PHOENIX
 bio: My research interests include marine predators.
 education:
   courses:
