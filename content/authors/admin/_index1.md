@@ -11,7 +11,7 @@ education:
   - course: BSc Biological Sciences
     institution: University of Liège
     year: 2022
-email: ""
+email: "daehyunbouche@gmail.com"
 first_name: Vincent
 highlight_name: false
 interests:

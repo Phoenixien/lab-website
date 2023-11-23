@@ -9,7 +9,7 @@ sections:
       country_code: KR
       postcode: "94305"
       region: CA
-      street: 450 Serra Mall
+      street: 77 Yongbong-ro
     appointment_url: https://calendly.com
     autolink: true
     coordinates:
